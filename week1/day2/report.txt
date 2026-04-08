@@ -1,0 +1,3 @@
+./logs/build.log:build success
+./logs/error.log:test failed in parser
+./parser_hit.txt:./logs/error.log:test failed in parser

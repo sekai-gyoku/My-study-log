@@ -1,0 +1,1 @@
+Todat I learned pwd,ls,cd,mkdir,touch,cp,mv.

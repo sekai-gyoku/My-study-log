@@ -1,0 +1,2 @@
+lexer handle tokens
+parser builds AST

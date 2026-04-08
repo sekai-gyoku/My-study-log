@@ -1,0 +1,27 @@
+=== parser files ===
+./cpp_files.txt:./src/parser.cpp
+./docs/note.txt:parser builds AST
+./logs/error.log:test failed in parser
+./report.txt:./logs/error.log:test failed in parser
+./report.txt:./parser_hit.txt:./logs/error.log:test failed in parser
+./daily_report.txt:=== parser files ===
+./parser_hit.txt:./cpp_files.txt:./src/parser.cpp
+./parser_hit.txt:./docs/note.txt:parser builds AST
+./parser_hit.txt:./logs/error.log:test failed in parser
+
+=== log hits ===
+./logs/error.log:test failed in parser
+./report.txt:./logs/error.log:test failed in parser
+./report.txt:./parser_hit.txt:./logs/error.log:test failed in parser
+./daily_report.txt:./logs/error.log:test failed in parser
+./daily_report.txt:./report.txt:./logs/error.log:test failed in parser
+./daily_report.txt:./report.txt:./parser_hit.txt:./logs/error.log:test failed in parser
+./daily_report.txt:./parser_hit.txt:./logs/error.log:test failed in parser
+./parser_hit.txt:./logs/error.log:test failed in parser
+
+=== cpp files ===
+./src/ast.cpp
+./src/ir.cpp
+./src/lexer.cpp
+./src/parser.cpp
+./src/main.cpp

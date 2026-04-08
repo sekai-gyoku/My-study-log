@@ -1,0 +1,5 @@
+./src/ast.cpp
+./src/ir.cpp
+./src/lexer.cpp
+./src/parser.cpp
+./src/main.cpp
