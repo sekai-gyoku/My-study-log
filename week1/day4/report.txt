@@ -1,0 +1,17 @@
+=== Project Report ===
+Target directory: sample_project
+
+[CPP files]
+sample_project/src/lexer.cpp
+sample_project/src/parser.cpp
+sample_project/src/main.cpp
+Total: 3
+
+[TXT files]
+sample_project/docs/notes.txt
+Total: 1
+
+[LOG files]
+sample_project/logs/build.log
+Total: 1
+
