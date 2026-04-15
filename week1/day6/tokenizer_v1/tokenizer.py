@@ -23,7 +23,7 @@ def tokenize(text):
             while i < len(text) and text[i].isdigit():
                 i += 1
             number_text = text[start:i]
-            tokens.append(Token("NUMBER", number_text))
+            tokens.append(Token("NUMBER", int(number_text)))
             continue
         
         if ch == "+":
