@@ -35,6 +35,13 @@ Representative examples in this repository include:
 - AST-based evaluator
 - very small constant folding pass on AST
 
+## Suggested Entry Points
+
+If you want to quickly see the more relevant parts of this repository, you can start from:
+
+- `week2/day10/precedence_parser_v1`
+- `week2/day11/constant_folding_v1`
+
 ## Current Goal
 
 The goal of this repository is to build a clearer understanding of:
